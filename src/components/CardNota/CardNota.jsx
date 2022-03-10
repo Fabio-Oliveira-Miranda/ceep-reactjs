@@ -6,10 +6,10 @@ class CardNota extends Component {
     return (
 
       <section className="card-nota">
-        <header>
-          <h3>Título</h3>
+        <header className="card-nota_cabecalho">
+          <h3 className="card-nota_texto">Título</h3>
         </header>
-        <p>Escreva sua nota</p>
+        <p className= "card-nota_texto">Escreva sua nota</p>
       </section>
     );
   }
