@@ -85,12 +85,12 @@ export default FormularioCadastro;
 
 
     
-}
 
 
 
 
 
-}
+
+
 
 
